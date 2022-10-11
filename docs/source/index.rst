@@ -24,7 +24,9 @@ Contents
     
    usage
    
+   :maxdepth: 2
    :hidden:
    :glob:
    :caption: Another
+   
    resources
