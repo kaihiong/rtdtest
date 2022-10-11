@@ -23,6 +23,8 @@ Contents
    :caption: Google Colaboratory
     
    usage
-
+   
+   :hidden:
+   :glob:
    :caption: Another
    resources
