@@ -16,12 +16,13 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-    resources
-      
+.. toctree::  
    :maxdepth: 2
    :hidden:
    :glob:
    :caption: Google Colaboratory
     
    usage
+
+   :caption: Another
+   resources
