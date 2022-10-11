@@ -19,4 +19,7 @@ Contents
 .. toctree::
 
    usage
+
+   :maxdepth: 2
+   :caption: Google Colaboratory
    resources
