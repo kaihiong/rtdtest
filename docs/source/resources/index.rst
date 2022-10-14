@@ -10,3 +10,11 @@ Google Cloud
 ----------------
 
 Google Cloud
+
+.. toctree::  
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Resources
+   
+   resources/aws
