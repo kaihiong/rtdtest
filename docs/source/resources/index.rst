@@ -1,15 +1,10 @@
 Resources
-=====
+===================================
+This is where you can find resources.
 
-Amazon AWS
-------------
 
-Amazon AWS
-
-Google Cloud
-----------------
-
-Google Cloud
+Contents
+--------
 
 .. toctree::  
    :maxdepth: 2
