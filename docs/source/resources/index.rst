@@ -1,4 +1,4 @@
-\:book: Resources
+Resources
 =====
 
 Amazon AWS
