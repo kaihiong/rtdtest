@@ -24,8 +24,5 @@ Contents
     
    usage
    
-   :maxdepth: 2
-   :hidden:
-   :glob:
    :caption: Google Colaboratory
    resources
