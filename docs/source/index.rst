@@ -20,9 +20,13 @@ Contents
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Google Colaboratory
+   :caption: Usage
     
    usage
    
-   :caption: Google Colaboratory
+.. toctree::  
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Resources
    resources
