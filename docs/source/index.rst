@@ -28,6 +28,6 @@ Contents
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Resources
+   :caption: 💓 Resources
    
    resources/index
