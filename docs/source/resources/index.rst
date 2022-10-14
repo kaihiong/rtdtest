@@ -17,4 +17,4 @@ Google Cloud
    :glob:
    :caption: Resources
    
-   resources/aws
+   aws
