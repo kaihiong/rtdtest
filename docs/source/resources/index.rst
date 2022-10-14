@@ -1,4 +1,4 @@
-💓 Resources
+Resources
 =====
 
 Amazon AWS
