@@ -22,5 +22,10 @@ Contents
    :glob:
    :caption: Google Colaboratory
     
-   usage   
+   usage
+   
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Google Colaboratory
    resources
