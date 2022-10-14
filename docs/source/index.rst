@@ -22,7 +22,7 @@ Contents
    :glob:
    :caption: Usage
     
-   usage
+   usage/index
    
 .. toctree::  
    :maxdepth: 2
@@ -30,4 +30,4 @@ Contents
    :glob:
    :caption: Resources
    
-   resources
+   resources/index
