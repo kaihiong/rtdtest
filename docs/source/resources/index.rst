@@ -1,6 +1,4 @@
-:blue_book: 
-
-Resources
+\:book: Resources
 =====
 
 Amazon AWS
